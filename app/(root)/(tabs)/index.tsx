@@ -14,7 +14,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text className="font-rubik text-lg my-10">WELCOME TO RE-STATE</Text>
+      <Text className="font-Bold text-2xl my-10 ">Welcome to Re-State</Text>
       <Link href ="/SignIn"> Sign in </Link>
       <Link href ="/Explore">Explore </Link>
       <Link href ="/Profile">Profile </Link>
